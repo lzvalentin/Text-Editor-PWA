@@ -4,7 +4,7 @@
 
 This is a text editor application that meets PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.## User Story
 
-
+Deployed Link: https://pwa-txt-editor-app.herokuapp.com/
 ## User Story
 
 ```md
