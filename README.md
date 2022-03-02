@@ -4,7 +4,7 @@
 
 This is a text editor application that meets PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.## User Story
 
-Deployed Link: https://pwa-txt-editor-app.herokuapp.com/
+Deployed Link: https://pwa-txt-editor-2.herokuapp.com/
 ## User Story
 
 ```md
@@ -12,7 +12,6 @@ AS A developer
 I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
 ```
-
 
 ```md
 GIVEN a text editor web application
@@ -41,3 +40,8 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
+![alt text](https://github.com/lzvalentin/Text-Editor-PWA/blob/main/assets/jate.png?raw=true)
+
+
+## Credits
+https://github.com/lzvalentin
